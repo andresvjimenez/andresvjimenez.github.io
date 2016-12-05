@@ -1,2 +1,18 @@
 body {background:blue}
 
+.table {
+
+  border-bottom: 1px solid orange;
+  padding: 20px;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#body h1 {
+
+  font-family: "Helvetica", sans-serif;
+  color: orange;
+
+}
